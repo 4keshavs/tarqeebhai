@@ -81,7 +81,7 @@ type LetterScreen = "welcome" | "reasons" | "apology" | "question" | "ending";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "A Little Something Just For You — A Private Apology" },
+      { title: "Mera chhotu motu cutu" },
       {
         name: "description",
         content: "A thoughtful, private letter with a few honest words and a heartfelt apology.",
