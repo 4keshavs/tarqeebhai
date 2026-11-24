@@ -84,12 +84,12 @@ export const Route = createFileRoute("/")({
       { title: "Mera chhotu motu cutu" },
       {
         name: "description",
-        content: "A thoughtful, private letter with a few honest words and a heartfelt apology.",
+        content: "Mere chhotu motu cutu naraz hai",
       },
-      { property: "og:title", content: "A Little Something Just For You — A Private Apology" },
+      { property: "og:title", content: "Hello Hello Link Kholo" },
       {
         property: "og:description",
-        content: "A thoughtful, private letter with a few honest words and a heartfelt apology.",
+        content: "Mere chhotu motu cutu naraz hai",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
